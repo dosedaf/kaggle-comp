@@ -1,0 +1,2 @@
+All features: .14
+k25 : .15 (but readable), so .22 is not normal, if happens then check
